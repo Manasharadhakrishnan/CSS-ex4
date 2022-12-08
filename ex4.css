@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    color: white;    padding-left: 20px;
+}
+.word{
+    float: right;
+    color: white;
+    word-spacing: 25px;
+padding-right: 20px;
+    right: 25px;   
+}
+.blue{
+    background-color:  rgb(22, 190, 148);;
+    width: 100%;
+    height:310px;
+    color: white;
+}
+.boy{
+    width: 90px;
+  padding-left: 600px;
+  padding-top: 50px;  
+}
+.blue{
+    text-align:center;
+}
+.line1{
+width: 70px;
+height: 2px;
+background-color: white;
+margin-left: 590px;
+margin-top: 40px;
+}
+.line2{
+    width: 70px;
+    height: 2px;
+    background-color: white;
+    margin-left: 690px;
+    margin-top: -15px ;
+}
+.fit{
+    
+    color:black;
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 100%;
+    border: 1px black;
+    margin-top: 50px;
+}
+.line3{
+    width: 70px;
+    height: 2px;
+    background-color: black;
+    margin-left: 590px;
+    margin-top: -15px ;
+}
+.line4{
+    width: 70px;
+    height: 2px;
+    background-color: black;
+    margin-left: 690px;
+    margin-top: -13px ;
+}
+.columns{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.red{
+height: 200px;
+width: 300px;
+margin-right: 25px;
+margin-left: 14px;
+
+}
+.green{
+ height: 200px;
+ width: 300px;
+ margin-right: 45px;
+ margin-left: 25px;
+     
+}
+.black{
+        background-color: black;
+        height: 200px;
+        width: 300px;
+        margin-right: 25px;
+        
+        }
+        .rows{
+            display: flex;
+            margin-top: -15px;
+            margin-left: 150px;
+        }
+        .sblue{
+            background-color: royalblue;
+        height: 200px;
+        width: 300px;
+        margin-right: 25px;
+margin-left: 14px;
+border-radius: 8px;
+        
+        }
+        .tblue{
+            background-color: blue;
+            height: 200px;
+            width: 300px;
+            margin-right: 45px;
+            margin-left: 25px;
+            border-radius: 8px;
+            
+                       
+                 
+           }
+           .light{
+            background-color: burlywood;
+            height: 200px;
+            width: 300px;
+            margin-right: 25px;
+            border-radius: 8px;
+        
+            }
+            .first{
+            border-radius: 40px;
+
+            
+
+                
+                  
+            }
+            .icon1{
+               margin-top: -15px;
+               font-size: 20px;
+            }
+            .icon2{
+                margin-top: -15px;
+                font-size: 20px;
+            }
+
+
+    
+    /* color: white;
+    margin-top: 80px;
+   
+    text-align: center; */
+     
+
+
+.icon3{
+    margin-top: -15px;
+    font-size: 20px;
+}
+.footer{
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    background-color: rgb(22, 190, 148);
+    color: #fff;
+}
+.foot1{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: -50px;
+}
+.para2{
+    display: flex;
+    padding-left: 330px;
+    padding-top: 20px;
+}
+.foot2{
+    padding-right: 35px;
+    margin-top: 80px;
+    font-size: 18px;
+}
+
+.foot3{
+    padding-right: 15px;
+    margin-top: 80px;
+    font-size: 18px;
+}
+.button{
+    width: 210px;
+    height: 40px;
+    background-color: transparent;
+    border-color: #fff; 
+    margin-left: 550px;
+    color: #fff;
+    margin-top: -10px;
+    font-size: 20px;
+}
+.icon4{
+    margin-top: -12px; margin-left:-8px;
+}
+.line5{
+    width: 70px;
+    height: 2px;
+    background-color: white;
+    margin-left: 590px;
+    margin-top: 16px;
+    }
+    .line6{
+        width: 70px;
+        height: 2px;
+        background-color: white;
+        margin-left: 680px;
+        margin-top: -12px ;
+    }
+    .para1{
+        margin-left: 30px;
+        margin-top: 50px;
+    }
